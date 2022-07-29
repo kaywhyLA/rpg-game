@@ -1,0 +1,1 @@
+const Potion = require('../lib/potion.js');
